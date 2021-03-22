@@ -1,3 +1,6 @@
+
+[![Build Status](https://dev.azure.com/MTF2021/AK-PartsUnlimited/_apis/build/status/MTF2021.AK-ContosoAir?branchName=master)](https://dev.azure.com/MTF2021/AK-PartsUnlimited/_build/latest?definitionId=47&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
